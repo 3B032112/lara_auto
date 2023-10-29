@@ -1,0 +1,16 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "autoload Classes",
+    "autoload": {
+        "psr-4": {
+            "Ncut\\LaraAuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "3B032112",
+            "email": "rjoeyic@gmail.com"
+        }
+    ],
+    "require": { }
+}
