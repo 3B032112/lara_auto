@@ -12,5 +12,8 @@
             "email": "rjoeyic@gmail.com"
         }
     ],
-    "require": { }
+    "require": {
+        "monolog/monolog": "^3.5",
+        "nesbot/carbon": "^2.71"
+    }
 }
