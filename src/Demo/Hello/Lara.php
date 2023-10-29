@@ -4,7 +4,7 @@ namespace Demo\Hello;
 
 class Lara
 {
-    function __construct($name)
+    function __construct()
     {
         echo 'Hello lara' . PHP_EOL;
     }
